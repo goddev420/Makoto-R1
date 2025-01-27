@@ -1,3 +1,7 @@
+![MakotoR1](https://github.com/user-attachments/assets/f42185b4-6197-4fd1-98c8-8bbc278a5cbb)
+
+
+
 # Open R1
 
 *A fully open reproduction of DeepSeek-R1 and modified for Makoto-R1. This repo is a work in progress, let's build it together!*
