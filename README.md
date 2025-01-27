@@ -6,7 +6,7 @@
 
 The goal of this repo is to build the missing pieces of the R1 pipeline such that everybody can reproduce and build on top of it. The project is simple by design and mostly consists of:
 
-- `src/open_r1` contains the scripts to train and evaluate models as well as generate synthetic data:
+- `src/Makokto_r1` contains the scripts to train and evaluate models as well as generate synthetic data:
     - `grpo.py`: trains a model with GRPO on a given dataset.
     - `sft.py`: simple SFT of a model on a dataset.
     - `evaluate.py`: evaluates a model on the R1 benchmarks.
